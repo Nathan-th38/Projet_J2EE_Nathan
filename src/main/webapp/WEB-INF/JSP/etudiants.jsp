@@ -13,7 +13,7 @@
     </title>
 </head>
 <body>
-
+<h1>nATHAN</h1>
 <h1>Liste des étudiants présents en BD</h1>
 <p><a href="<%= application.getContextPath()%>/do/groupes">voir les groupes</a></p>
 
